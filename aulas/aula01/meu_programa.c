@@ -15,8 +15,8 @@ float media = 0.4*nota1 + 0.6*nota2;
 printf("A média final é %.1f", media);
 
 if (media >=5.0) {
-  printf("RECEBA\n");
+  printf("aprovado!\n");
 } else {
-  printf("burro reprovado\n");
+  printf("reprovado!\n");
 }
 }
