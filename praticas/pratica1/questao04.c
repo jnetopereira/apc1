@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-float preco_inicial = 100.0f;
+float preco_inicial = 250.0f;
 
 
   const float ICMS = 0.17f;
